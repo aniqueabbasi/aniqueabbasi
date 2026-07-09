@@ -108,22 +108,6 @@ RESTful Web API built using ASP.NET Core with:
 
 ---
 
-GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniqueabbasi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniqueabbasi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqueabbasi&layout=compact&theme=tokyonight" />
-</p>
-
----
-
  Connect With Me
 
 *  Email: [aniqueabbasi965@gmail.com](mailto:aniqueabbasi575@gmail.com)
