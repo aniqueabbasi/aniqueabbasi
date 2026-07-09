@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Wajahat Ahmed Abbasi
+# Hi there 👋, I'm Anique Ahmed Abbasi
 
 ### 🚀 Flutter & .NET Developer | Software Engineer | Problem Solver
 
-I'm a passionate Software Engineer from Pakistan currently based in Poland. I enjoy building scalable mobile applications, modern web applications, and backend APIs using Flutter and the .NET ecosystem.
+I'm a passionate Software Engineer from Pakistan currently based in Islamabad. I enjoy building scalable mobile applications, modern web applications, and backend APIs using Flutter and the .NET ecosystem.
 
 ---
 
@@ -63,24 +63,14 @@ I'm a passionate Software Engineer from Pakistan currently based in Poland. I en
 * Swagger
 * SSMS
 * Figma
+* n8n
+* Retell Ai
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💍 Marriage Hall Booking App
 
-A complete Flutter application for booking marriage halls with:
-
-* User Authentication
-* Hall Listings
-* Booking System
-* Payment Integration
-* Admin Dashboard
-* Owner Registration
-* Booking Management
-
----
 
 ### 🛒 EZMart Marketplace
 
@@ -136,8 +126,7 @@ RESTful Web API built using ASP.NET Core with:
 
 ## 🌍 Connect With Me
 
-* 📧 Email: [wajahatabbasi965@gmail.com](mailto:wajahatabbasi965@gmail.com)
-* 💼 LinkedIn: [www.linkedin.com/in/wajahat-ahmed-abbasi](http://www.linkedin.com/in/wajahat-ahmed-abbasi)
+* 📧 Email: [aniqueabbasi965@gmail.com](mailto:aniqueabbasi575@gmail.com)
 * 💻 GitHub: https://github.com/aniqueabbasi
 
 ---
@@ -147,7 +136,6 @@ RESTful Web API built using ASP.NET Core with:
 * Building production-ready Flutter applications
 * Developing scalable ASP.NET Core Web APIs
 * Learning Microservices Architecture
-* Azure Cloud Development
 * Clean Architecture & Design Patterns
 
 ---
