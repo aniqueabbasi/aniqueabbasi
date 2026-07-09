@@ -1,27 +1,27 @@
-# Hi there 👋, I'm Anique Ahmed Abbasi
+ Hi there , I'm Anique Ahmed Abbasi
 
-### 🚀 Flutter & .NET Developer | Software Engineer | Problem Solver
+ Flutter & .NET Developer | Software Engineer | Problem Solver
 
 I'm a passionate Software Engineer from Pakistan currently based in Islamabad. I enjoy building scalable mobile applications, modern web applications, and backend APIs using Flutter and the .NET ecosystem.
 
 ---
 
-## 👨‍💻 About Me
+ About Me
 
-* 📱 Flutter Mobile Application Developer
-* 💻 ASP.NET Core & C# Backend Developer
-* 🗄️ SQL Server & Entity Framework Core
-* 🔥 REST API Development
-* ☁️ Firebase Integration
-* 🧩 Clean Architecture & MVVM
-* 🌱 Currently expanding my skills in Microservices, Azure, and Cloud Development
-* 🎯 Always learning new technologies and building real-world applications
+*  Flutter Mobile Application Developer
+*  ASP.NET Core & C# Backend Developer
+*  SQL Server & Entity Framework Core
+*  REST API Development
+*  Firebase Integration
+*  Clean Architecture & MVVM
+*  Currently expanding my skills in Microservices.
+*  Always learning new technologies and building real-world applications
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 
-### Mobile Development
+ Mobile Development
 
 * Flutter
 * Dart
@@ -30,7 +30,7 @@ I'm a passionate Software Engineer from Pakistan currently based in Islamabad. I
 * Firebase
 * REST APIs
 
-### Backend Development
+ Backend Development
 
 * ASP.NET Core
 * C#
@@ -68,11 +68,11 @@ I'm a passionate Software Engineer from Pakistan currently based in Islamabad. I
 
 ---
 
-## 🚀 Featured Projects
+ Featured Projects
 
 
 
-### 🛒 EZMart Marketplace
+ EZMart Marketplace
 
 Marketplace platform featuring:
 
@@ -84,7 +84,7 @@ Marketplace platform featuring:
 
 ---
 
-### 🌸 Silver Aroma Perfume Store
+ Silver Aroma Perfume Store
 
 ASP.NET Core MVC e-commerce website featuring:
 
@@ -96,7 +96,7 @@ ASP.NET Core MVC e-commerce website featuring:
 
 ---
 
-### 🎓 Student Management API
+ Student Management API
 
 RESTful Web API built using ASP.NET Core with:
 
@@ -108,7 +108,7 @@ RESTful Web API built using ASP.NET Core with:
 
 ---
 
-## 📊 GitHub Stats
+GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniqueabbasi&show_icons=true&theme=tokyonight" />
@@ -124,14 +124,14 @@ RESTful Web API built using ASP.NET Core with:
 
 ---
 
-## 🌍 Connect With Me
+ Connect With Me
 
-* 📧 Email: [aniqueabbasi965@gmail.com](mailto:aniqueabbasi575@gmail.com)
-* 💻 GitHub: https://github.com/aniqueabbasi
+*  Email: [aniqueabbasi965@gmail.com](mailto:aniqueabbasi575@gmail.com)
+*  GitHub: https://github.com/aniqueabbasi
 
 ---
 
-## 💡 Current Focus
+ Current Focus
 
 * Building production-ready Flutter applications
 * Developing scalable ASP.NET Core Web APIs
@@ -140,4 +140,3 @@ RESTful Web API built using ASP.NET Core with:
 
 ---
 
-> *"Code is not just about solving problems; it's about creating solutions that make people's lives easier."* 🚀
